@@ -1,0 +1,10 @@
+title       = "rc"
+baseURL     = "https://rosettacode-cli.tamnd.com/"
+description = "Browse Rosetta Code programming tasks"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/rosettacode-cli"
